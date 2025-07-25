@@ -2,6 +2,9 @@
 
 A modern React-TypeScript application built with Vite for tracking and analyzing market trends with AI-powered chat functionality.Mainly Bolt Ai used all these features and tech stack to build this.
 
+link to the website - https://charming-cajeta-e7faa2.netlify.app/
+note : it only works in phone
+
 ## 🚀 Features
 
 - **AI Chat Interface** - Interactive chat for market trend discussions
